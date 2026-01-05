@@ -15,3 +15,9 @@ If someone read this I need advice and guidance !!
     <li>Ajouter des tests unitaires</li> !---Pending---!   
     <li>Ajouter un système de configuration (fichier de config)</li> !---Pending---!  
 </ol>
+
+
+Working On The Code.
+ Need to clean before dropping it on the internet.
+
+Discord : atlasmk2
