@@ -6,12 +6,12 @@ If someone read this I need advice and guidance !!
 ## Améliorations possibles du projet actuel :
 
 <ol>
-    <li>Ajouter une validation des adresses IP entrées</li>   !---PASSED---! NEEDED : OPTIMIZATION
-    <li>Implémenter une détection de services plus détaillée (banner grabbing)</li> <<----------
-    <li>Ajouter un système de logging plus complet</li>
-    <li>Implémenter une interface graphique (avec tkinter ou PyQt)</li>
-    <li>Ajouter des options de scan (UDP, SYN scan, etc.)</li>
-    <li>Améliorer la gestion des erreurs</li>
-    <li>Ajouter des tests unitaires</li>
-    <li>Ajouter un système de configuration (fichier de config)</li>
+    <li>Ajouter une validation des adresses IP entrées</li>   !---Working---! NEEDED : OPTIMIZATION
+    <li>Implémenter une détection de services plus détaillée (banner grabbing)</li> !---In Progress---! On it ! 
+    <li>Ajouter un système de logging plus complet</li> !---Pending---! 
+    <li>Implémenter une interface graphique (avec tkinter ou PyQt)</li> !---Pending---!  
+    <li>Ajouter des options de scan (UDP, SYN scan, etc.)</li> !---Pending---! 
+    <li>Améliorer la gestion des erreurs</li> !---Pending---!  
+    <li>Ajouter des tests unitaires</li> !---Pending---!   
+    <li>Ajouter un système de configuration (fichier de config)</li> !---Pending---!  
 </ol>
